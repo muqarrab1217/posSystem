@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/posSystem/static/css/main.6585c8cb.css",
+    "main.js": "/posSystem/static/js/main.ff9feb41.js",
+    "static/js/239.716a5023.chunk.js": "/posSystem/static/js/239.716a5023.chunk.js",
+    "static/js/213.a9fe50b0.chunk.js": "/posSystem/static/js/213.a9fe50b0.chunk.js",
+    "static/js/732.772804a3.chunk.js": "/posSystem/static/js/732.772804a3.chunk.js",
+    "static/js/453.20bae25a.chunk.js": "/posSystem/static/js/453.20bae25a.chunk.js",
+    "index.html": "/posSystem/index.html",
+    "main.6585c8cb.css.map": "/posSystem/static/css/main.6585c8cb.css.map",
+    "main.ff9feb41.js.map": "/posSystem/static/js/main.ff9feb41.js.map",
+    "239.716a5023.chunk.js.map": "/posSystem/static/js/239.716a5023.chunk.js.map",
+    "213.a9fe50b0.chunk.js.map": "/posSystem/static/js/213.a9fe50b0.chunk.js.map",
+    "732.772804a3.chunk.js.map": "/posSystem/static/js/732.772804a3.chunk.js.map",
+    "453.20bae25a.chunk.js.map": "/posSystem/static/js/453.20bae25a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6585c8cb.css",
+    "static/js/main.ff9feb41.js"
+  ]
+}
